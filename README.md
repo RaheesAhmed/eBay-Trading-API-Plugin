@@ -1,7 +1,7 @@
 # eBay-Trading-API-Plugin
 A plugin that retrieves data from eBay using the Trading API.
 
-#How to use this plugin?
+# How to use this plugin?
 
 To use the eBay API plugin, you'll need to first install and activate it on your WordPress website. Here's how:
 
